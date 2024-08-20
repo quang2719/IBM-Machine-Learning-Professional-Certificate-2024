@@ -4,9 +4,9 @@
 
 [![IBM](https://img.shields.io/badge/IBM-000000?style=for-the-badge&logo=IBM&logoColor=white)](https://www.ibm.com/)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-This repository contains my personal notes, code examples, and learning materials from the IBM Machine Learning Professional Certificate offered by IBM on Coursera.
+This repository contains my code examples, and learning materials from the IBM Machine Learning Professional Certificate offered by IBM on Coursera.
+## Certificate
 
 ## 📚 Course Overview
 
@@ -53,3 +53,7 @@ This repository is licensed under the MIT License. Feel free to use and modify t
 ## 🙏 Acknowledgments
 
 I am grateful to IBM for creating this excellent course. I would also like to thank the Coursera community for their support and collaboration.
+## Contact
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/qq2719/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-nguyen-2003-ptit/)
+
