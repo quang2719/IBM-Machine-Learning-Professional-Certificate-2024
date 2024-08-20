@@ -7,7 +7,7 @@
 
 This repository contains my code examples, and learning materials from the IBM Machine Learning Professional Certificate offered by IBM on Coursera.
 ## Certificate
-
+[![Certificate](https://github.com/quang2719/IBM-Machine-Learning-Professional-Certificate-2024/blob/main/IMG/certificate.png?raw=true)](https://github.com/quang2719/IBM-Machine-Learning-Professional-Certificate-2024/blob/main/IMG/certificate.png?raw=true)
 ## 📚 Course Overview
 
 This professional certificate program provides a comprehensive introduction to machine learning, covering both theoretical foundations and practical applications. It equips learners with the skills and knowledge needed to build and deploy machine learning models in real-world scenarios.
