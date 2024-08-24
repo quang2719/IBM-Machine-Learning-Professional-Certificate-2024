@@ -55,5 +55,5 @@ This repository is licensed under the MIT License. Feel free to use and modify t
 I am grateful to IBM for creating this excellent course. I would also like to thank the Coursera community for their support and collaboration.
 ## Contact
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/qq2719/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-nguyen-2003-ptit/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-nv-ptit/)
 
